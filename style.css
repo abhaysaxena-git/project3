@@ -68,7 +68,7 @@ body{
     font-size: 15px;
     width: 400;
 }
-/* .profile-card .media-buttons{
+.profile-card .media-buttons{
     display: flex;
     align-items: center;
     margin-top: 15px;
@@ -85,8 +85,8 @@ body{
     margin: 0 8px;
     background-color: #4070f4;
     text-decoration: none;
-} */
-/* .profile-card .buttons{
+}
+.profile-card .buttons{
     display: flex;
     text-align: center;
     justify-content: center;
@@ -107,7 +107,7 @@ body{
 }
 .buttons .btn:hover{
     background-color: #0e4bf1;
-} */
+}
 /* .profile-card .analytic{
     display: flex;
     align-items: center;
