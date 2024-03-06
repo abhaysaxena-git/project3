@@ -47,7 +47,7 @@ body{
     margin-bottom: 10px;
   
 }
-/* .image .profile-img{
+.image .profile-img{
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -67,7 +67,7 @@ body{
 .text-data .job{
     font-size: 15px;
     width: 400;
-} */
+}
 /* .profile-card .media-buttons{
     display: flex;
     align-items: center;
