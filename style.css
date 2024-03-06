@@ -108,7 +108,7 @@ body{
 .buttons .btn:hover{
     background-color: #0e4bf1;
 }
-/* .profile-card .analytic{
+.profile-card .analytic{
     display: flex;
     align-items: center;
     margin-top: 25px;
@@ -127,4 +127,4 @@ body{
 }
 .data:last-child{
     border-right: none;
-} */
+}
